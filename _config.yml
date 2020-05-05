@@ -16,6 +16,8 @@ plainwhite:
   tagline: Software Developer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
+  disqus_shortname: disqus_rIqQWP3Aq6
+
 
   # generate social links in footer
   social_links:

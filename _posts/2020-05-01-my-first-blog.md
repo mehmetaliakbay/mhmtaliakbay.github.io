@@ -7,3 +7,5 @@ categories: About
 ---
 
 Merhaba burası karalama köşem olacak daha çok yazılım geliştirme, oyun programlama gibi konularda yazılar yazmayı planlıyorum..
+
+
